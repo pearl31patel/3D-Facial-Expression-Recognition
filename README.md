@@ -73,6 +73,8 @@ The translated landmark data gave the best performance because it centers the fa
 
 Pearl Viralkumar Patel
 
+![image alt](https://github.com/pearl31patel/3D-Facial-Expression-Recognition/blob/4ec06b8171cdc9025a60523532fc7923ecc4220e/3d_expression.png)
+
 
 
 
