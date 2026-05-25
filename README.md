@@ -2,6 +2,8 @@
 
 This project performs facial expression recognition using 3D facial landmark data. The goal is to classify facial expressions using machine learning and compare performance across original, translated, and rotated landmark data.
 
+![image alt](https://github.com/pearl31patel/3D-Facial-Expression-Recognition/blob/4ec06b8171cdc9025a60523532fc7923ecc4220e/3d_expression.png)
+
 ## Project Overview
 
 This project uses 3D facial landmarks from the BU4DFE dataset. Each face sample contains landmark points with x, y, and z coordinates. The model uses these landmark features to classify facial expressions such as Angry, Disgust, Fear, Happy, Sad, and Surprise.
@@ -71,9 +73,7 @@ The translated landmark data gave the best performance because it centers the fa
 
 ## Author
 
-Pearl Viralkumar Patel
-
-![image alt](https://github.com/pearl31patel/3D-Facial-Expression-Recognition/blob/4ec06b8171cdc9025a60523532fc7923ecc4220e/3d_expression.png)
+Pearl Patel
 
 
 
